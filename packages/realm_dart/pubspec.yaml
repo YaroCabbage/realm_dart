@@ -24,7 +24,6 @@ dependencies:
   pubspec_parse: ^1.0.0
   pub_semver: ^2.1.0
   realm_common: ^20.0.1
-  realm_generator: ^20.0.1
   tar: ^1.0.1
   build_runner: ^2.1.0
   http: ^1.0.0
