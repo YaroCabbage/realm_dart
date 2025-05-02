@@ -1,4 +1,4 @@
-# Realm Dart Repository Update Process
+# Realm Dart Repository update process
 
 **Original repository:** https://github.com/realm/realm-dart
 
